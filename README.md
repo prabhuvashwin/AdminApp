@@ -19,4 +19,4 @@ Database schema used for this website is given below:
 
 ## Demo
 A demo of the working prototype is given below:
-[![Demo Video](https://youtu.be/zqndFkOKp6U)
+[![Demo Video]()](https://youtu.be/zqndFkOKp6U "Demo Video - Click to watch")
