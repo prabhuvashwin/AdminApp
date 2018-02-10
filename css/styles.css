@@ -1,0 +1,46 @@
+/* Styles for the whole website */
+
+body {
+    overflow: hidden;
+    background: #4CAF50;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.page {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.button{
+    background-color: #003d00;
+    border:1px solid #003d00;
+    border-radius:5px;
+    color:#fff;
+    margin-right:10px;
+    padding:10px 10px 10px 10px;
+}
+
+.frame {
+    background: #edf7ed;
+    position:relative;
+    overflow:hidden;
+    height:500px;
+    width:1000px;
+    align:center;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.dashboard {
+    margin-left: 50px;
+    margin-top: 30px;
+    justify-content: space-around;
+}
